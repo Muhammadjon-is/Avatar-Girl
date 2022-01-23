@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/Muhammadjon-is/Avatar_Girls.git/static/css/main.7c507876.css",
+    "main.js": "/Muhammadjon-is/Avatar_Girls.git/static/js/main.39f60572.js",
+    "static/media/img1.jpg": "/Muhammadjon-is/Avatar_Girls.git/static/media/img1.ba873360970b319785f5.jpg",
+    "index.html": "/Muhammadjon-is/Avatar_Girls.git/index.html",
+    "main.7c507876.css.map": "/Muhammadjon-is/Avatar_Girls.git/static/css/main.7c507876.css.map",
+    "main.39f60572.js.map": "/Muhammadjon-is/Avatar_Girls.git/static/js/main.39f60572.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7c507876.css",
+    "static/js/main.39f60572.js"
+  ]
+}
